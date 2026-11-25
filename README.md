@@ -79,4 +79,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/we-march-as-one-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases) · [Русификатор We March as One](https://github.com/neoru-droid/we-march-as-one-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
+[Все версии](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases) · [Русификатор We March as One](https://github.com/neoru-droid/we-march-as-one-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
