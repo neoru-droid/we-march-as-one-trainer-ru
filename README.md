@@ -4,7 +4,7 @@
 
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Единая страница с русификатором на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)**
+- **[Единая страница с русификатором на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce?utm_source=github&utm_medium=readme&utm_campaign=we_march_as_one)**
 
 Проверено на сборке Steam `26651298` для **Windows** (`F1`, `Alt+1..6`) и **Steam Deck / Linux** (`install-steamdeck.sh`, управление с геймпада `L3 + R3`). Достижения Steam продолжают открываться как обычно.
 
@@ -79,4 +79,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/we-march-as-one-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases) · [Русификатор We March as One](https://github.com/neoru-droid/we-march-as-one-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
+[Все версии](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases) · [Русификатор We March as One](https://github.com/neoru-droid/we-march-as-one-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=we_march_as_one) · [Каталог с поиском](https://neoru-droid.github.io/)
