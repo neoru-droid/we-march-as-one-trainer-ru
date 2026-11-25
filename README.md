@@ -7,7 +7,7 @@
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
 
-Проверено на сборке Steam `26651298` для **Windows** (`F1`, `Alt+1..6`) и **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`). Достижения в Steam продолжают открываться.
+Проверено на сборке Steam `26651298` для **Windows** (`F1`, `Alt+1..6`) и **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`).
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
