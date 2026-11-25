@@ -1,14 +1,13 @@
 # We March as One · Внутриигровое мод-меню
 
-Внутриигровое мод-меню на русском языке с десятью функциями настройки баланса для боя и кампании.
+Внутриигровое мод-меню на русском языке (10 функций) для настройки боя и кампании **We March as One**.
 
+## Скачать
+- **[Страница релиза и обновления на Boosty (вместе с русификатором 2-в-1)](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce?utm_source=github&utm_medium=readme&utm_campaign=we_march_as_one)**
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Страница релиза с русификатором на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce?utm_source=github&utm_medium=readme&utm_campaign=we_march_as_one)**
 
-Проверено на сборке Steam `26651298` для **Windows** (`F1`, `Alt+1..6`) и **Steam Deck / Linux** (`install-steamdeck.sh`, управление с геймпада `L3 + R3`). Достижения Steam продолжают открываться.
-
-Кнопка «Открыть всё» помечает все 50 уровней пройденными. Полученные ресурсы, прокачка и открытые уровни останутся в сохранении после удаления мод-меню.
+Проверено на сборке Steam `26651298` для **Windows** (`F1`, `Alt+1..6`) и **Steam Deck / Linux** (`install-steamdeck.sh`, `L3 + R3`). Достижения в Steam продолжают открываться.
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
@@ -60,7 +59,7 @@
 
 ## Таблица Cheat Engine (.CT)
 
-Автономная таблица `WeMarchAsOne_RU_v1.0.CT` для Cheat Engine 7.7 работает без установки файлов в папку игры (`WeMarchAsOne.exe`).
+Таблица `WeMarchAsOne_RU_v1.0.CT` для Cheat Engine 7.5+ (`WeMarchAsOne.exe`) работает без изменения файлов игры.
 
 ![Таблица Cheat Engine](docs/screenshots/ct_1.png)
 
@@ -75,8 +74,10 @@
 
 Как подключить: запустите игру -> откройте `WeMarchAsOne_RU_v1.0.CT` через `File -> Load` в Cheat Engine -> выберите процесс `WeMarchAsOne.exe` -> включайте строки по одной или клавишами `Ctrl+Num1` .. `Ctrl+Num8` (не нажимайте `Ctrl+A` в окне Cheat Engine).
 
-## Обратная связь и ссылки
+## Обратная связь и проекты автора
 
-Об ошибке можно написать в [Issues](https://github.com/neoru-droid/we-march-as-one-trainer-ru/issues).
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/we-march-as-one-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases) · [Русификатор We March as One](https://github.com/neoru-droid/we-march-as-one-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=we_march_as_one) · [Каталог с поиском](https://neoru-droid.github.io/)
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=we_march_as_one) · [профиль на GitHub](https://github.com/neoru-droid)
+
+Автор: `neoru-droid`
